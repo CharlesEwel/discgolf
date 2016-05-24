@@ -8,10 +8,10 @@
 
 This is a webpage about **disc golf** and my favorite things that I made as a practice exercise for learning HTML. There are:
 
-*links
-*lists
-*pictures
-*_styling_
+* links
+* lists
+* pictures
+* _styling_
 
 ###Set-Up and Installation
 
